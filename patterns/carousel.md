@@ -2,7 +2,7 @@
 
 Carousel takes users through a series of features or information pages before they start using the add-in.
 
-> Formally named **Paging Panel**.
+> Formerly named **Paging Panel**.
 
 #### Code sample
 * [Carousel code sample](https://github.com/OfficeDev/Office-Add-in-UX-Design-Patterns-Code/tree/master/templates/first-run/carousel)
