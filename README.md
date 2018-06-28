@@ -1,3 +1,8 @@
+>[!NOTE]
+> This repository is no longer being supported. Please reference [Office add-ins design documentaiton](https://docs.microsoft.com/en-us/office/dev/add-ins/design/ux-design-pattern-templates) for the latest UX patterns and best practices. Thank you.  
+
+
+
 # Office Add-in UX Design Patterns
 
 This repository is a library of common UX design patterns for Office Add-ins. It represents a set of best practices for add-in interfaces. The patterns are built using Office UI Fabric components and styling. They complement Office experiences and follow add-in UX design principles. As you design your own Office Add-in, refer to the design patterns list below.
