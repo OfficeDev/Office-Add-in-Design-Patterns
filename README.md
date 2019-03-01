@@ -1,4 +1,4 @@
-# [Archived] Office Add-in UX Design Patterns
+# [ARCHIVED] Office Add-in UX Design Patterns
 
 This repository has been replaced with the documentation found at [Fabric UX Design Pattern Templates](https://docs.microsoft.com/en-us/office/dev/add-ins/design/ux-design-pattern-templates).
 
